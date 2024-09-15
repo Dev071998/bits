@@ -1,0 +1,2 @@
+Throttle position sensor
+steer by wire system
